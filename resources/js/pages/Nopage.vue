@@ -1,12 +1,12 @@
 <template>
     <div>
-        <h1>Hello Vue app</h1>
+        <h1>no page</h1>
     </div>
 </template>
 
 <script>
 export default {
-    name: 'Minipos13App',
+    name: 'Minipos13Nopage',
 
     data() {
         return {
